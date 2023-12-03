@@ -1,0 +1,10 @@
+square
+71 5 0
+rectangle
+59 22 16 67
+square
+41 32 4
+square
+23 2 6
+ellipse
+56 17 78 85
